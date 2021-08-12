@@ -19,6 +19,5 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 I applied for this Internship 2 weeks ago, got selected in Round 1, and applied for Round 2. I was given a course on JsonPowerDB to complete and to make a mini-project on it. 
 I've completed my project on 12th August, 2021...
 
-## Screenshots of the Crude operations and Mini-project:
-![CRUD Operations] (https://github.com/Hardik-90/JsonPowerDB-Project-Submission-for-Login2xploreInternship/blob/master/CRUD%20Operations.PNG)
+### The Screenshots of the Crude operations and Mini-project are attached with the Email itself....
 
