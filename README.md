@@ -5,6 +5,8 @@ This Repository consists of the code for the JsonPowerDB Project Submission for 
 
 ## "This project is all about basics of JsonPowerDB (JPDB) and how to use JPDB for CRUD operations." 
 
+## The code for the project is in Master branch, within the public_html folder named index.html
+
 ## The Project related files are attached with the Master Branch...
 
 # About JsonPowerDB:
