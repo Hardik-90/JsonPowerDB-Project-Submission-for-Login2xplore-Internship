@@ -20,5 +20,5 @@ I applied for this Internship 2 weeks ago, got selected in Round 1, and applied 
 I've completed my project on 12th August, 2021...
 
 ## Screenshots of the Crude operations and Mini-project:
-
+![CRUD Operations] (https://github.com/Hardik-90/JsonPowerDB-Project-Submission-for-Login2xploreInternship/blob/master/CRUD%20Operations.PNG)
 
